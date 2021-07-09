@@ -9,7 +9,7 @@ sites:
 assignees: devJasonClarke
 
 status-website:
-  theme: dark
+  theme: light
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /status-Jamaica-housing
@@ -17,8 +17,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://www.countryflags.io/jm/flat/64.png
   faviconSvg: https://www.countryflags.io/jm/flat/32.png
-  introTitle: "Jamaica Housing's uptime monitor"
-  introMessage: This is a sample status page which uses **real-time** data from our website
+  introTitle: "Uptime Monitor for Jamaica Housing"
   navbar:
     - title: Status
       href: /
@@ -26,4 +25,4 @@ status-website:
       href: https://jamaican-housing.pages.dev/
 
 # Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration 
+# See https://upptime.js.org/docs/configuration
