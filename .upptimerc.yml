@@ -21,8 +21,8 @@ status-website:
   introTitle: "Uptime Monitor for Real Estate JA"
   navbar:
     - title: Status
-      href: //Real Estate JA/
-    - title: Jamaica Housing
+      href: /Real Estate JA/
+    - title: Real Estate JA
       href: https://jamaican-housing.pages.dev/
 
 # Upptime also supports notifications, assigning issues, and more
