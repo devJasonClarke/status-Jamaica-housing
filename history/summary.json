@@ -1,20 +1,20 @@
 [
   {
-    "name": "Jamaica Housing",
+    "name": "Real Estate JA",
     "url": "https://jamaican-housing.pages.dev/",
     "icon": "https://favicons.githubusercontent.com/jamaican-housing.pages.dev",
-    "slug": "jamaica-housing",
+    "slug": "real-estate-ja",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 84,
-    "timeWeek": 132,
-    "timeMonth": 115,
-    "timeYear": 115,
+    "time": 105,
+    "timeDay": 105,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
