@@ -20,8 +20,6 @@ status-website:
   faviconSvg: https://www.countryflags.io/jm/flat/32.png
   introTitle: "Uptime Monitor for Real Estate JA"
   navbar:
-    - title: Status
-      href: /Real Estate JA/
     - title: Real Estate JA
       href: https://jamaican-housing.pages.dev/
 
