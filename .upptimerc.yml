@@ -4,7 +4,7 @@ repo: status-Jamaica-housing # The name of this repository
 
 sites:
   - name: Real Estate JA
-    url: https://jamaican-housing.pages.dev/
+    url: https://real-estate-ja-demo.netlify.app/
 
 
 assignees: devJasonClarke
@@ -21,7 +21,7 @@ status-website:
   introTitle: "Uptime Monitor for Real Estate JA"
   navbar:
     - title: Real Estate JA
-      href: https://jamaican-housing.pages.dev/
+      href: https://real-estate-ja-demo.netlify.app/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
